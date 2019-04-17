@@ -210,6 +210,7 @@ header.masthead h2 {
   display: block;
   max-width: 25rem;
   margin-bottom: 15px;
+  font-family: 'Montserrat';
 }
 
 .portfolio .portfolio-item .portfolio-item-caption {
