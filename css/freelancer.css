@@ -226,6 +226,8 @@ header.masthead h2 {
 
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
   font-size: 1.5rem;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 @media (min-width: 576px) {
