@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: Patricia Pires
 description: An urban planning portfolio
 
-# Social
-analytics-id: UA-139064254-1
+# Google Analytics
+google_analytics: UA-139064254-1
